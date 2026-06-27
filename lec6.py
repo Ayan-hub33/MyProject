@@ -69,17 +69,22 @@
 # factorial(6)
 
 #4.
-def converter(D):
-    return D*95
-rupee = converter(10)
+# def converter(D):
+#     return D*95
+# rupee = converter(10)
 
-print("it would be rupee", end = " ")
-print(rupee)
+# print("it would be rupee", end = " ")
+# print(rupee)
+
+# #5. 
+# def identifier(num):
+#     if(num%2 == 0):
+#         print("Even")
+#     if(num%2 != 0):
+#         print("Odd")
+# identifier(7)
 
 
-def identifier(num):
-    if(num%2 == 0):
-        print("Even")
-    if(num%2 != 0):
-        print("Odd")
-identifier(7)
+
+
+#recursions
